@@ -1,3 +1,4 @@
+# Link: https://www.youtube.com/watch?v=o_OZdbCzHUA
 # textblob - natural language processing
 # this is for sentiment analysis (understanding and extracting feelings from data)
 

@@ -1,4 +1,5 @@
-# # module that let us make a decision tree
+# Link: https://www.youtube.com/watch?v=T5pRlIbr6gg
+# module that let us make a decision tree
 # from sklearn import tree 
 
 # #[height, weight, shoe size]
