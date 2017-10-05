@@ -18,7 +18,7 @@ auth.set_access_token(access_token, access_secret)
 api = tweepy.API(auth)
 
 # Getting the tweets
-public_tweets = api.search('Despacito')
+public_tweets = api.search('illuminati')
 
 for x in range(len(public_tweets)):
 	tweetjson = public_tweets[x].text
